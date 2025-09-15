@@ -1,0 +1,9 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* custom styles */
+html, body, #root { height: 100%; }
+body { @apply bg-gray-900 text-gray-100; }
+a { @apply underline decoration-sky-400 decoration-1; }
