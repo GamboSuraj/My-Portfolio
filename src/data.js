@@ -80,6 +80,15 @@ export const skills = {
 
 
 export const projects = [
+  { title: "Sociopedia", description: "Full Stack Social Media Web App built with MERN.", repo: "https://github.com/USERNAME/sociopedia" },
+  { title: "Rapid-Whatsapp", description: "Updated messaging app project.", repo: "https://github.com/USERNAME/rapid-whatsapp" },
+  { title: "Weather-App", description: "React.js weather app (5 day forecast) using OpenWeatherMap API.", repo: "https://github.com/USERNAME/weather-app" },
+  { title: "Shopping-Website", description: "E-commerce website with 150+ women's clothing products.", repo: "https://github.com/USERNAME/shopping-website" },
+  { title: "Resume-Builder", description: "Web-based tool to create and customize professional resumes.", repo: "https://github.com/USERNAME/resume-builder" },
+  { title: "Easy-Consulting", description: "Software agency full-stack website with MERN stack and multiple features.", repo: "https://github.com/USERNAME/easy-consulting" },
+  { title: "Crypto-Tracker", description: "Cryptocurrency tracker built with React.js and Material UI.", repo: "https://github.com/USERNAME/crypto-tracker" },
+  { title: "Invoice-Generator", description: "Invoice creator project built with React and jspdf-react.", repo: "https://github.com/USERNAME/invoice-generator" },
+  { title: "Chat Application", description: "Real-time chat application using React.js and Socket.io.", repo: "https://github.com/USERNAME/chat-application" },
   { title: "Amazon Clone Demo", description: "Demo UI for Amazon-like store.", repo: "https://github.com/GamboSuraj/amazon-clone-demo" },
   { title: "Netflix Home Page", description: "Static recreation of Netflix homepage.", repo: "https://github.com/GamboSuraj/Home-Page-of-Netflix-" },
   { title: "Tic Tac Toe", description: "Classic JS game.", repo: "https://github.com/GamboSuraj/Tic-Tac-Toe" },
@@ -95,5 +104,7 @@ export const projects = [
   { title: "Temperature Converter", description: "Convert temperatures using HTML.", repo: "https://github.com/GamboSuraj/temperature-converter" },
   { title: "Landing Page", description: "Responsive landing page using CSS.", repo: "https://github.com/GamboSuraj/Landing-page" },
   { title: "Rock-Paper-Scissors", description: "Online rock paper scissors game.", repo: "https://github.com/GamboSuraj/Rock-Paper-Scissors" },
-  { title: "Currency Calculator", description: "Currency calculator using API.", repo: "https://github.com/GamboSuraj/Currency-Calculator" }
+  { title: "Currency Calculator", description: "Currency calculator using API.", repo: "https://github.com/GamboSuraj/Currency-Calculator" },
+  { title: "Online-IDE", description: "AI online IDE supporting multiple languages and online compiler.", repo: "https://github.com/USERNAME/online-ide" }
 ];
+
